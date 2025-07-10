@@ -84,7 +84,7 @@ All courses include:
 ## Contact Information
 
 - **CEO**: Hakizimana
-- **Phone**: +27 780570803
+- **Phone**: WhatsApp: +27 78 057 0803
 - **Headquarters**: Johannesburg, South Africa
 - **Email**: info@eastafricangirls.tech
 

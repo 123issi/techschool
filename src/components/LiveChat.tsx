@@ -106,7 +106,7 @@ const LiveChat = () => {
             <div className="mt-4 text-xs text-gray-500 space-y-1">
               <div className="flex items-center gap-1">
                 <Phone className="h-3 w-3" />
-                <span>+27 780570803</span>
+                <span>WhatsApp: +27 78 057 0803</span>
               </div>
               <div className="flex items-center gap-1">
                 <Mail className="h-3 w-3" />
