@@ -86,7 +86,7 @@ All courses include:
 - **CEO**: Hakizimana
 - **Phone**: WhatsApp: +27 78 057 0803
 - **Headquarters**: Johannesburg, South Africa
-- **Email**: info@eastafricangirls.tech
+- **Email**: girls.in.tech.bootcamp@gmail.com
 
 ## Development
 
